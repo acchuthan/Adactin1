@@ -11,6 +11,7 @@ while (num>0) {
 	count ++;
 }
 System.out.println("No of digits: "+count);
+System.out.println("project completed");
 }
 
 
